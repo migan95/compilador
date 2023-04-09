@@ -1,10 +1,4 @@
 # ninja log v5
-1	269	1679370679613553648	CMakeFiles/Compilador.dir/analizador_lexico/gestionErrores.c.o	4d4a9532a835c88f
-0	607	1679370679952141539	CMakeFiles/Compilador.dir/main.cpp.o	259c3c4e09a36c6d
-2	270	1679370679613547357	CMakeFiles/Compilador.dir/analizador_lexico/TablaSimbolos.c.o	bc0fbea0ce66e5ed
-3	271	1679370679615947852	CMakeFiles/Compilador.dir/analizador_lexico/ArbolBinario.c.o	27e968be939cb64f
-3	280	1679370679625920697	CMakeFiles/Compilador.dir/analizador_lexico/lex.yy.c.o	93910a2507d49abd
-4	127	1679370731110350711	CMakeFiles/Compilador.dir/analizador_lexico/gestionErrores.c.o	fa629118f8183176
-5	127	1679370731110348087	CMakeFiles/Compilador.dir/analizador_lexico/TablaSimbolos.c.o	bcd42274b0d049a2
-6	127	1679370731111277886	CMakeFiles/Compilador.dir/analizador_lexico/ArbolBinario.c.o	d5b2451ef67a321
-5	135	1679370731119479670	CMakeFiles/Compilador.dir/analizador_lexico/lex.yy.c.o	48c4547412bd21f3
+0	408	1680040851639559891	CMakeFiles/Compilador.dir/main.cpp.o	259c3c4e09a36c6d
+409	549	1680040851783450688	Compilador	99a80bc48879a8a5
+1	61	1681065638087861928	CMakeFiles/Compilador.dir/main.cpp.o	18b38bf068ffaeda
